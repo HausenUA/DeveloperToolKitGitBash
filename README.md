@@ -156,6 +156,7 @@ Enter the following as your issue description:
 > Hi Aleo team! I’m claiming my contributor badge for completing the New Developer Toolkit tutorial.
 >
 > Tutorial Repo: <GITHUB_REPO_URL>
+>
 > Requested badge: <BADGE_TYPE>
 
 ![Example](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/78da5c4b-4633-46cc-81ba-7191b5cd1f8a)
