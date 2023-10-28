@@ -4,9 +4,8 @@ Let’s begin, my path “Leo Developer Toolkit through Git Bash”
 *To paste command press Shift+Win+Insert (Windows)*
 
 ## What will we need (Preparation) :
-1. Install [Git Bash (Follow instructions for Linux\Mac OS or Windows)](https://git-scm.com/downloads)
-2. Install [Rust’s package manager (Cargo)](https://www.rust-lang.org/tools/install)
-3. [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
+1. Install [Git Bash (Follow instructions for Windows)](https://git-scm.com/downloads)
+2. Install [the components you need for building C and C++ apps](https://visualstudio.microsoft.com/vs/features/cplusplus/)
 
 ## What do we do:
 
@@ -147,8 +146,9 @@ Click “New Issue” in the top right corner
 
 ![New issue](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/3a62c4f7-713c-488f-a9b4-a599d7339d0f)
 
-Click “Get started” in the Documentation row
-![Documentation Get Started](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/882abf01-9714-4c09-8455-2223fbd4427e)
+Click “Get started” in the Leo Contributor Badge row
+![Leo Contributor Badge Get Started](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/d12637a8-eaf4-44de-b3ad-dc7b7d2a40cb)
+
 
 Title your issue: `“Add <your_github_username> to contributors”`
 Enter the following as your issue description:
@@ -159,7 +159,8 @@ Enter the following as your issue description:
 >
 > Requested badge: <BADGE_TYPE>
 
-![Example](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/78da5c4b-4633-46cc-81ba-7191b5cd1f8a)
+![Example](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/904153e6-fe85-41ed-938c-0071523188db)
+
 
 After that you can submit your issue
 Once your issue is approved, Aleo team will add you to the [Contributors section](https://github.com/AleoHQ/leo#%EF%B8%8F-contributors) of the Leo README.md file
