@@ -103,6 +103,10 @@ write the command in the terminal
 git config --global user.email mail@.com
 ```
 **where mail@.com is your email adress*
+```
+git config --global user.name your_username
+```
+**where your_username is your username)
 
 3.3 Now you can commit
 ```
