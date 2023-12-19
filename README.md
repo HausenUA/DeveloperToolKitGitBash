@@ -144,32 +144,6 @@ git push -u origin main
 ## 4. Congratulations, you can view your repository via your link or in your GitHub profile
 [An example of what I came up with when I created this guide](https://github.com/HausenUA/tictactoe)
 
-## 5. Claim your badge
-5.1 Go to the Leo [repo](https://github.com/AleoHQ/leo/issues)
-Click “New Issue” in the top right corner
-
-![New issue](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/3a62c4f7-713c-488f-a9b4-a599d7339d0f)
-
-Click “Get started” in the Leo Contributor Badge row
-![Leo Contributor Badge Get Started](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/d12637a8-eaf4-44de-b3ad-dc7b7d2a40cb)
-
-
-Title your issue: `“Add <your_github_username> to contributors”`
-Enter the following as your issue description:
-
-> Hi Aleo team! I’m claiming my contributor badge for completing the New Developer Toolkit tutorial.
->
-> Tutorial Repo: <GITHUB_REPO_URL>
->
-> Requested badge: <BADGE_TYPE>
-
-![Example](https://github.com/HausenUA/DeveloperToolKitGitBash/assets/107180551/904153e6-fe85-41ed-938c-0071523188db)
-
-
-After that you can submit your issue
-Once your issue is approved, Aleo team will add you to the [Contributors section](https://github.com/AleoHQ/leo#%EF%B8%8F-contributors) of the Leo README.md file
-
-Congratulations on becoming a Leo contributor! 🎉
 
 ## Continue your Leo journey
 Check out the following resources:
